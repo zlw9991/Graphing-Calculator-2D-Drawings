@@ -2,6 +2,58 @@
 
 Assumes use of FX-CG50 casio calculator.
 
+## Lain Iwakura (岩倉 玲音 Iwakura Rein) 
+
+<img src="https://github.com/zlw9991/Graphing-Calculator-2D-Drawings/blob/main/laincg.jpg" width="300">
+
+```
+ymax = 8, ymin = -8, xmax = 16, xmin = -16
+T -> [0,1] 'T ranges from 0 to 1'
+
+xt1=5cos(1.25πT)
+yt1=5sin(1.25πT)
+
+xt2=-3.5+T(-2+3.5)
+yt2=-3.5+T(1+3.5)
+
+xt3=-2+T(-1+2)
+yt3=1+T(-1-1)
+
+xt4=2cos(πT+π)+1
+yt4=0.5sin(πT+π)-1
+
+xt5=3+T(3.8-3)
+yt5=-1+T(-7+1)
+
+xt6=3.8+T(5-3.8)
+yt6=-7+T(7)
+
+xt7=3cos(πT+π)
+yt7=0.5sin(πT+π)-2.75
+
+xt8=0.7cos(πT)
+yt8=0.5sin(πT)-2.8
+
+xt9=cos(2πT)+2
+yt9=sin(2πT)-1.2
+
+xt10=cos(2πT)-2
+yt10=sin(2πT)-1.2
+
+xt11=3+T(4.5-3)
+yt11=-1+T(-2+1)
+
+xt12=3.2+T(4.8-3.2)
+yt12=-2+T(-1+2)
+
+xt13=-1+T(-4+1)
+yt13=0
+
+xt14=1+T(4-1)
+yt14=0
+```
+
+
 ## Kururu
 
 <img src="https://github.com/zlw9991/Graphing-Calculator-2D-Drawings/blob/main/img11.jpg" width="300">
